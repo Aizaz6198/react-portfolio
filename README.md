@@ -2,9 +2,9 @@
 
 A simple portfolio built with React. 
 
-### [live preview](https://)
+### [live preview][(https://)](https://react-portfolio-rs4v.onrender.com)
 
-[![react portfolio]
+
 
 ### Features
 
