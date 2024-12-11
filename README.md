@@ -2,7 +2,7 @@
 
 A simple portfolio built with React. 
 
-### [live preview][(https://)](https://react-portfolio-rs4v.onrender.com)
+### [live preview](https://react-portfolio-rs4v.onrender.com)
 
 
 
